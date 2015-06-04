@@ -1,3 +1,4 @@
-app:
-    resource: "@AppBundle/Controller/"
+sentinnel_core:
+    resource: "@SentinnelCoreBundle/Controller/"
     type:     annotation
+    prefix:   /
